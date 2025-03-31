@@ -1,0 +1,6 @@
+id,name,email
+1,TechTrade,contact@techtrade.com
+2,MobileShop,support@mobileshop.com
+3,GigaStore,info@gigastore.com
+4,Electronix,sales@electronix.com
+5,SmartBuy,help@smartbuy.com

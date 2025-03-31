@@ -1,0 +1,7 @@
+C:\Users\bb\source\repos\Mintafeladat\KonzolosApp\obj\Debug\KonzolosApp.csproj.AssemblyReference.cache
+C:\Users\bb\source\repos\Mintafeladat\KonzolosApp\obj\Debug\KonzolosApp.csproj.CoreCompileInputs.cache
+C:\Users\bb\source\repos\Mintafeladat\KonzolosApp\bin\Debug\KonzolosApp.exe.config
+C:\Users\bb\source\repos\Mintafeladat\KonzolosApp\bin\Debug\KonzolosApp.exe
+C:\Users\bb\source\repos\Mintafeladat\KonzolosApp\bin\Debug\KonzolosApp.pdb
+C:\Users\bb\source\repos\Mintafeladat\KonzolosApp\obj\Debug\KonzolosApp.exe
+C:\Users\bb\source\repos\Mintafeladat\KonzolosApp\obj\Debug\KonzolosApp.pdb

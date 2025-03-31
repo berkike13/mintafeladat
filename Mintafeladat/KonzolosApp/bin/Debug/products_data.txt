@@ -1,0 +1,6 @@
+id,name,quantity
+1,Samsung Galaxy S24,125
+2,iPhone 15,50
+3,Dell XPS 15,180
+4,Lenovo ThinkPad,90
+5,iPad Pro,30
